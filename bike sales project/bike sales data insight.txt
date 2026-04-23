@@ -1,0 +1,20 @@
+from 2021 to 2022:
+
+our cost went up 3.99 to 4.99 represents a 25% price increase
+our riders went up 1,243,103 to 2,049,576 which is a 65% increase
+
+so we can say with a high degree of confidence that increasing price more won't affect rider demand that much.
+price elasticity = % demand / % price increase. this is usually negative but for us it is not. so 65 / 25 = 2.56 which means it can tolerate our price can tolerate an increase.
+
+Recommendation:
+
+conservative increase: considing the substantial increase last year, a more conservative increase might be prudent to avoid hitting a price ceiling where demand starts to drop. an increase in the reange of 10-15% could test the markets response without risking a significant loss of customers.
+
+recommendation: if the price in 2022 aws 4.99, a 10% increase would make the new price about 5.49.
+a 15% increase would set the price at approximately 5.74.
+
+market analysis. conduct further market reserach to understrand customer satisfcation, potential competitive changes, and the overall econoimc environment.  this can guide whether we should aim for the lower or higher end of of the suggested increase.
+
+segmented pricing strategy. consider different pricing for casual versus registered users, as they may have different rice sensitivieies.
+
+monitor and adjust: implement the new rices but be ready to adjust based on immediate customer feedback and sales data. monitoring closely will allow you to fine-tune your pricing sttrategy without commiting fully to a price that might urn out to be too high.
