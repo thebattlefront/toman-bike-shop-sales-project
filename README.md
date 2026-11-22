@@ -6,6 +6,12 @@ A data analysis and visualization project using SQL and Power BI to explore bike
 
 Used SQL to combine, organize, and analyze bike-sharing datasets, then imported the results into Power BI to develop a dashboard for exploring sales performance and identifying trends.
 
+## Development Context
+
+**Guided Learning Project**
+
+Completed while following instructional material focused on SQL and Power BI. The project provided hands-on experience preparing and analyzing data with SQL, calculating business metrics, and presenting results through a Power BI dashboard.
+
 ## Tools & Technologies
 
 - SQL
@@ -16,6 +22,7 @@ Used SQL to combine, organize, and analyze bike-sharing datasets, then imported 
 ## Features
 
 - Data preparation and manipulation using SQL
+- Combination of multiple source datasets
 - Calculation of key business metrics
 - Analysis of bike-sharing sales data
 - Interactive Power BI dashboard
@@ -34,6 +41,16 @@ Used SQL to combine, organize, and analyze bike-sharing datasets, then imported 
 | `clipboard.png` | Supporting project image. |
 | `person.png` | Supporting image asset. |
 
-## Purpose
+## Learning Objectives
 
-To develop practical experience combining SQL and Power BI in a data analysis workflow, from preparing and calculating data to visualizing results and communicating business insights.
+- Practice preparing and manipulating data using SQL.
+- Combine information from multiple datasets.
+- Calculate business metrics using SQL.
+- Import and work with analyzed data in Power BI.
+- Create visualizations and dashboards to communicate findings.
+- Develop an end-to-end data analysis workflow.
+
+## Project Workflow
+
+1. **Data Preparation:** Used SQL to organize and combine the source datasets.
+2. **Data Analysis:**
